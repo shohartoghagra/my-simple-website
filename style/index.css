@@ -1,0 +1,21 @@
+.div1{
+background-color: sandybrown;
+padding: 1rem;
+   
+}
+.images{
+    width: 100%;
+}
+
+.natural{
+    text-align: center;
+    font-size: 3rem;
+    color: tomato;
+    background-color: gold;
+    width: max-content;
+    position: relative;
+    left: 20rem;
+}
+.source{
+    background-color: green;
+}
